@@ -5,13 +5,13 @@ __pycache__/
 # SQLite データベース
 StockData.db
 
-# 環境変数ファイル
-.env
-
-# VSCode設定
-.vscode/
-
-# テスト用データを無視
+# テスト用フォルダ・ファイル
 old/
 *.csv
 *.sql
+
+# 環境変数ファイル
+.env
+
+# エディタ設定
+.vscode/
