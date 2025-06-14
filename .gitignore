@@ -1,0 +1,17 @@
+# Python キャッシュ
+__pycache__/
+*.py[cod]
+
+# SQLite データベース
+StockData.db
+
+# 環境変数ファイル
+.env
+
+# VSCode設定
+.vscode/
+
+# テスト用データを無視
+old/
+*.csv
+*.sql
